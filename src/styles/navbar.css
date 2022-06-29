@@ -1,0 +1,20 @@
+.header {
+	border:0;
+	border-top: 3px solid black;
+    width: 70%;
+    margin-left: 15%;
+    
+}
+.container.row.col.btn-group.btn{
+    color: black;
+    text-decoration: none;
+}
+.btn:hover {
+    color: #EC8907;
+    text-decoration: none;
+}
+.drop .a:hover{
+    color: #EC8907;
+    text-decoration: none;
+}
+

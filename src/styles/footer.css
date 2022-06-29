@@ -1,0 +1,13 @@
+.footer {
+	border:0;
+	border-top: 1px solid black;
+    width: 70%;
+    margin-left: 15%;
+}
+.title {
+    color: #EC8907;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+}
